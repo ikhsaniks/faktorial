@@ -18,7 +18,7 @@ public class Ketupat {
      */
     public static void main(String[] args) {
         System.out.println("");
-        int l = 2;
+               int l = 2;
         int tingkat = 10;
         int n = 4;
        
